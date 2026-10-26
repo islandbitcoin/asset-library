@@ -6,3 +6,9 @@ Asset Library for Island Bitcoin
 Thank you to https://www.nogood.studio for amazing creations that we willingly open-source to the world.
 
 One Love.
+
+## Cashu Card diagrams
+
+[Cashu Card ecosystem](Diagrams/CashuCard/README.md): desktop and phone SVGs, a preview, source provenance and reuse notes.
+
+![Cashu Card ecosystem](Diagrams/CashuCard/preview.jpg)
