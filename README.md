@@ -9,6 +9,6 @@ One Love.
 
 ## Cashu Card diagrams
 
-[Cashu Card ecosystem](Diagrams/CashuCard/README.md): desktop and phone SVGs, a preview, source provenance and reuse notes.
+[Cashu Card asset library](https://github.com/cashucard/cashucard/tree/main/brand): marks, icons, print artwork and architecture diagrams.
 
-![Cashu Card ecosystem](Diagrams/CashuCard/preview.jpg)
+[Cashu Card ecosystem diagram](https://github.com/cashucard/cashucard/tree/main/brand/diagrams): desktop and phone SVGs, preview, generator and usage notes.
